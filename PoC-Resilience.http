@@ -1,0 +1,6 @@
+@PoC_Resilience_HostAddress = http://localhost:5103
+
+GET {{PoC_Resilience_HostAddress}}/weather/test
+Accept: application/json
+
+###
